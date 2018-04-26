@@ -1,0 +1,49 @@
+.main {
+  width:600px;
+  height:600px;
+}
+
+.left {
+  width:200px;
+  float:left;
+}
+
+.center {
+  width:200px;
+  float:left;
+}
+
+.right {
+  width:200px;
+  float:left;
+}
+
+.re {
+  background-color: red;
+  height:500px;
+}
+
+.ye {
+  background-color: yellow;
+  height:100px;
+}
+
+.blu {
+  background-color: blue;
+  height:200px;
+}
+
+.gr {
+  background-color: green;
+  height:400px;
+}
+
+.bla {
+  background-color: black;
+  height:300px;
+}
+
+.pi {
+  background-color: pink;
+  height:300px;
+}
